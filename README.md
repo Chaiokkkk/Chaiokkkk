@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Chaiokkkk
-- 👀 I’m interested in ...// @ts-nocheck
-// ==UserScript==
 // @name         MireaTasher
 // @namespace    http://tampermonkey.net/
 // @version      1.8
